@@ -253,17 +253,36 @@ h1,h2,h3,h4,h5
         vertical-align: middle;
         transition: all 0.4s ease-in;
     }
+    #work .media  .media-body .social-media-links .fa
+    {
+        border: none;
+        border-radius: none;
+        color: #D43F52;
+        font-size: 20px;
+        margin-right: 20px;
+        width: 37.5px;
+        height: 37.5px;
+        line-height: 25px;
+        text-align: center;
+        vertical-align: middle;
+        transition: all 0.4s ease-in;
+    }
+
+/*
 #work .media .fa:hover
     {
         background: #ffffff;
         cursor: pointer;
-    }
+    }*/
 #work .media .media-heading
     {
         font-weight: 600;
         font-size: 20px;
         padding-bottom: 10px;
     }
+
+
+
 /* end work */
 
 /* start about */
