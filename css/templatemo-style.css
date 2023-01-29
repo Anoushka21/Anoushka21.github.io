@@ -8,7 +8,7 @@ https://templatemo.com/tm-458-lavish
 
 body
 {
-	background: #000000;
+	background: #d2c6c6;
 	color: #999;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
@@ -49,7 +49,7 @@ footer .fp-tableCell
 h1,h2,h3,h4,h5
     {
         color: #ffffff;
-        font-weight: bold;
+        /*font-weight: bold;*/
     }
 /* end all heading */
 
@@ -180,21 +180,26 @@ h1,h2,h3,h4,h5
 	}
 #home h1
     {
-        border: 2px solid #D43F52;
-        color: #D43F52;
+        color: #ffffff;
         display: inline-block;
         letter-spacing: 6px;
         padding: 25px 35px;
-        margin: 30px 0;
+        padding-bottom: 15px;
+        margin: 0;
+        font-weight: bold;
     }
-#home h2
+#home h4
     {
+        color: #ffffff;
         padding-bottom: 10px;
+        margin: 0;
     }
 #home .btn
     {
         background: transparent;
+        background-color: #D43F52;
         border: 2px solid #ffffff;
+        border-radius: 25px;
         color: #ffffff;
         font-size: 16px;
         font-weight: bold;
@@ -204,31 +209,39 @@ h1,h2,h3,h4,h5
         padding-top: 18px;
         transition: all 0.4s ease-in-out;
     }
-#home .btn:hover
+/*
+    #home .btn:hover
     {
         background: #D43F52;
         border-color: transparent;
-    }
+    }*/
+    
 /* end home */
 
 /* start work */
 #work
     {
-        background: #1a1a1a;
+        /*background: #1a1a1a;*/
+        color: black ;
     }
 #work h2
     {
         text-align: center;
+        color : black;
     }
+
+#work h3 {
+    color: #000000;
+}
 
 #work .media
     {
       margin-top: 30px;
     }
-	
+
 #work .media .fa
     {
-        border: 2px solid #ffffff;
+        border: 2px solid #000000;
         border-radius: 50%;
         color: #D43F52;
         font-size: 24px;
@@ -286,135 +299,3 @@ h1,h2,h3,h4,h5
         float: right;
     }
 /* end about */
-
-/* start portfolio */
-#portfolio
-    {
-        background: #1a1a1a;
-        text-align: center;
-    }
-#portfolio h2
-    {
-        padding-bottom: 30px;
-    }
-#portfolio .portfolio-thumb
-    {
-        overflow: hidden;
-        position: relative;
-        margin-bottom: 30px;
-    }
-#portfolio .portfolio-thumb .portfolio-overlay
-    {
-        background: #D43F52;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        opacity: 0;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        padding-top: 60px;
-        transition: all 0.4s ease-in-out;
-    }
-#portfolio .portfolio-thumb:hover .portfolio-overlay
-    {
-        cursor: pointer;
-        opacity: 0.8;
-        transform: scale(0.9);
-    }
-/* end portfolio */
-
-/* start contact */
-
-#contact address
-    {
-      padding-bottom: 18px;
-    }
-	
-#contact .contact-title
-    {
-		font-size: 24px;
-		font-weight: bold;
-        padding-bottom: 20px;
-		color: #ffffff;
-    }
-#contact .fa
-    {
-        border: 2px solid #ffffff;
-        border-radius: 50%;
-        color: #D43F52;
-        width: 50px;
-        height: 50px;
-        line-height: 45px;
-        text-align: center;
-        margin-right: 20px;
-    }
-#contact .form-control
-    {
-        background: transparent;
-        border: 2px solid #999;
-        border-radius: 0;
-        box-shadow: none;
-        color: #ffffff;
-        margin-bottom: 20px;
-    }
-#contact input
-    {
-        height: 50px;
-    }
-#contact input[type="submit"]
-    {
-        background: #D43F52;
-        border: 2px solid transparent;
-        color: #ffffff;
-        font-weight: bold;
-        transition: all 0.4s ease-in-out;
-    }
-#contact input[type="submit"]:hover
-    {
-        background: #ffffff;
-        color: #D43F52;
-    }
-/* end contact */
-
-/* start footer */
-footer
-    {
-        border-top: 1px solid #090909;
-        text-align: center;
-        padding-top: 40px;
-        padding-bottom: 20px;
-    }
-footer hr
-    {
-        width: 100px;
-    }
-/* end footer */
-
-/* start social icon */
-.social-icon
-    {
-        position: relative;
-        padding: 0;
-        margin: 0;
-    }
-.social-icon li
-    {
-        display: inline-block;
-        list-style: none;
-    }
-.social-icon li a
-    {
-        border-radius: 50%;
-        color: #606060;
-        text-decoration: none;
-        transition: all 0.4s ease-in-out;
-        text-align: center;
-        margin-right: 10px;
-    }
-.social-icon li a:hover
-    {
-        color: #D43F52;
-    }
-/* end social icon */
