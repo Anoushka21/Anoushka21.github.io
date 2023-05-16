@@ -1,4 +1,5 @@
-## Portfolio
+## Education
+<p>Masters in Computer Science</p>
 
 ---
 
