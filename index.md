@@ -3,7 +3,8 @@
 
 ---
 ## Projects
-### Future Video Frame Segmentation Mask Prediction
+---
+### Future Video Frame Prediction
 Predicting the segmentation mask of the 22nd video frame given the first 11 video frames using an encoder decoder based ConvLSTM and Unet Model. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/ConvLSTM-white?logo=ConvLSTM)](#)
@@ -12,8 +13,14 @@ Predicting the segmentation mask of the 22nd video frame given the first 11 vide
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Deep Learning to Identify Sentence Structure
+Used various deep learning model to identify partitive nouns for semantic role labelling in NomBank Dataset.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+<a href="https://drive.google.com/file/d/1oSSYjcFjBh8p4mo_gUisLHmg32Sm934s/view?usp=share_link" target="_blank">View Paper</a>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
