@@ -5,8 +5,8 @@
 ## Projects
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Future Frame Segmentation Mask Prediction](/sample_page)
+<img src="images/DLResults.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
