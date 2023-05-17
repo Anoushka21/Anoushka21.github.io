@@ -3,13 +3,12 @@
 
 ---
 ## Projects
-### Future Vidoe Frame Segmentation Mask Prediction
-Predicting the segmentation mask of the 22nd video frame given the first 11 frames using an encoder decoder based ConvLSTM and Unet Model. 
+### Future Video Frame Segmentation Mask Prediction
+Predicting the segmentation mask of the 22nd video frame given the first 11 video frames using an encoder decoder based ConvLSTM and Unet Model. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/ConvLSTM-white?logo=ConvLSTM)](#)
 
-[View code on GitHub](https://github.com/anishabhatnagar/DLProject)
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="https://github.com/anishabhatnagar/DLProject" target="_blank">View code on GitHub</a>
 
 
 ---
