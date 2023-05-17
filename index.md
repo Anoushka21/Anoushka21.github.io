@@ -3,8 +3,8 @@
 
 ---
 ## Projects
-### Category Name 1 
-
+###Future Frame Segmentation Mask Prediction
+Predicting the segmentation mask of the 22nd video frame given the first 11 frames using an encoder decoder based ConvLSTM and Unet Model. 
 [Future Frame Segmentation Mask Prediction](/sample_page)
 <img src="images/DLResults.jpg"/>
 
