@@ -1,6 +1,6 @@
----
+***
 ## Work Experience
----
+***
 ### Software Developer Intern @Cadillac & LaSalle Club
 
 ---
