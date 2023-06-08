@@ -1,5 +1,7 @@
+---
 ## Work Experience
-<p>Masters in Computer Science</p>
+---
+### Software Developer Intern @Cadillac & LaSalle Club
 
 ---
 ## Projects
