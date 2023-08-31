@@ -1,8 +1,7 @@
 
 ## Work Experience
-
-### <img src="images\CLCMRC.png" alt="Cadillac Logo" width="50" height="50" align="left" style="margin-right: 10px;"> Software Developer Intern @Cadillac & LaSalle Club
-<br>
+---
+### <img src="images\CLCMRC.png" alt="Cadillac Logo" width="30" height="30" align="left" style="margin-right: 10px;"> Software Developer Intern @Cadillac & LaSalle Club
 Engineered a comprehensive end-to-end ML pipeline for neural-style transfer, resulting in a 40% enhancement in image quality.
 [![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
