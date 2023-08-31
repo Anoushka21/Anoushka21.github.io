@@ -3,7 +3,7 @@
 ---
 ### <img src="images\CLCMRC.png" alt="Cadillac Logo" width="30" height="30" align="left" style="margin-right: 10px;"> Software Developer Intern @Cadillac & LaSalle Club
 Engineered a comprehensive end-to-end ML pipeline for neural-style transfer, resulting in a 40% enhancement in image quality.
-<br>
+<br><br>
 [![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)](#)
@@ -13,9 +13,13 @@ Engineered a comprehensive end-to-end ML pipeline for neural-style transfer, res
 [![](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)](#)
 
 ---
-### <img src="images\WDC.png" alt="Cadillac Logo" width="30" height="30" align="left" style="margin-right: 10px;"> Firmware Verification Intern @ Western Digital
+### <img src="images\WDC.png" alt="Cadillac Logo" width="50" height="30" align="left" style="margin-right: 10px;"> Firmware Verification Intern @ Western Digital
+Established iNAND validation framework by introducing third-party vendor controller support alongside restructuring legacy code for a 30% reduction in complexity and transition to a modern architecture.
 
-Established iNAND validation framework by introducing third-party vendor controller support alongside restructuring legacy code for a 30\% reduction in complexity and transition to a modern architecture.
+<br><br>
+[![](https://img.shields.io/badge/C++-4479A1?logo=cplusplus&logoColor=white)](#)
+[![](https://img.shields.io/badge/eMMC-white?)](#)
+[![](https://img.shields.io/badge/Firmware%20Testing-grey?)](#)
 ---
 ## Projects
 ---
