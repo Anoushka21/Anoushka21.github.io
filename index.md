@@ -3,7 +3,8 @@ Hello! I am currently in my third semester at NYU Courant, pursuing advanced cou
 
 In anticipation of my 2024 graduation, I am actively seeking New Graduate roles that align with my passion and expertise. If you believe that my skills and aspirations align with your organization,feel free to reach out to me.
 
-Thank you for visiting my portfolio!
+Some of my previous work experience & projects are listed below!
+
 ---
 ## WORK EXPERIENCE
 ---
