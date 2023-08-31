@@ -65,25 +65,4 @@ Used various deep learning model to identify partitive nouns for semantic role l
 
 <a href="https://drive.google.com/file/d/1oSSYjcFjBh8p4mo_gUisLHmg32Sm934s/view?usp=share_link" target="_blank">View Paper</a>
 
-
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
 ---
