@@ -1,8 +1,21 @@
-***
-## Work Experience
-***
-### Software Developer Intern @Cadillac & LaSalle Club
 
+## Work Experience
+
+### <img src="images\CLCMRC.png" alt="Cadillac Logo" width="50" height="50" align="left" style="margin-right: 10px;"> Software Developer Intern @Cadillac & LaSalle Club
+Engineered a comprehensive end-to-end ML pipeline for neural-style transfer, resulting in a 40\% enhancement in image quality.
+
+
+
+[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)](#)
+[![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3)](#)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](#)
+[![](https://img.shields.io/badge/Django-092E20?logo=Django)](#)
+[![](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)](#)
+
+---
+### Firmware Verification Intern @ Western Digital
 ---
 ## Projects
 ---
