@@ -1,4 +1,10 @@
+## PRESENT DAY
+Hello! I am currently in my third semester at NYU Courant, pursuing advanced courses in Computer Vision, Graphical Processing Unit, and Cloud Computing. As part of my journey, I am excited to serve as a Course Grader and Tutor for the CSCI-Artificial Intelligence course.
 
+In anticipation of my 2024 graduation, I am actively seeking New Graduate roles that align with my passion and expertise. If you believe that my skills and aspirations align with your organization,feel free to reach out to me.
+
+Thank you for visiting my portfolio!
+---
 ## WORK EXPERIENCE
 ---
 ### <img src="images\CLCMRC.png" alt="Cadillac Logo" width="30" height="30" align="left" style="margin-right: 10px;"> Software Developer Intern @Cadillac & LaSalle Club
@@ -33,7 +39,7 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 [![](https://img.shields.io/badge/DeepSORT-grey?)](#)
 
 ---
-## Projects
+## PROJECTS
 ---
 ### Future Video Frame Prediction
 Predicting the segmentation mask of the 22nd video frame given the first 11 video frames using an encoder decoder based ConvLSTM and Unet Model. 
@@ -55,7 +61,6 @@ Used various deep learning model to identify partitive nouns for semantic role l
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Hugging%20Face-FF6F00?logo=hugging%20face&logoColor=white)](#)
-
 
 <a href="https://drive.google.com/file/d/1oSSYjcFjBh8p4mo_gUisLHmg32Sm934s/view?usp=share_link" target="_blank">View Paper</a>
 
