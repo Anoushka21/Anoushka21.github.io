@@ -1,7 +1,7 @@
 ## PRESENT DAY
-Hello! I am currently in my third semester at NYU Courant, pursuing advanced courses in Computer Vision, Graphical Processing Unit, and Cloud Computing. As part of my journey, I am excited to serve as a Course Grader and Tutor for the CSCI-Artificial Intelligence course.
+Hello! I am currently in my third semester at NYU Courant, pursuing advanced courses in Computer Vision, Graphical Processing Unit, and Cloud Computing. I am also serving as a Graduate Grader and Tutor for the course CSCI-GA 2560:Artificial Intelligence.
 
-In anticipation of my 2024 graduation, I am actively seeking New Graduate roles that align with my passion and expertise. If you believe that my skills and aspirations align with your organization,feel free to reach out to me.
+_**I am actively seeking 2024 New Grad roles**_ that align with my passion and expertise. If you believe that my skills and experience align with your organization,feel free to reach out to me.
 
 Some of my previous work experience & projects are listed below!
 
