@@ -52,7 +52,7 @@ Predicting the segmentation mask of the 22nd video frame given the first 11 vide
 [![](https://img.shields.io/badge/ConvLSTM-white?logo=ConvLSTM)](#)
 [![](https://img.shields.io/badge/GAN-grey?logo=GAN)](#)
 
-<a href="https://github.com/anishabhatnagar/DLProject" target="_blank">View code on GitHub</a>
+<a href="https://github.com/anishabhatnagar/DLProject" target="_blank">View GitHub Repository</a>
 
 
 ---
@@ -63,7 +63,8 @@ Used various deep learning model to identify partitive nouns for semantic role l
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Hugging%20Face-FF6F00?logo=hugging%20face&logoColor=white)](#)
-
+<br>
+<a href="https://github.com/Anoushka21/Semantic-Role-Labelling-on-Nombank-Dataset" target="_blank">View GitHub Repository</a> <br>
 <a href="https://drive.google.com/file/d/1oSSYjcFjBh8p4mo_gUisLHmg32Sm934s/view?usp=share_link" target="_blank">View Paper</a>
 
 ---
