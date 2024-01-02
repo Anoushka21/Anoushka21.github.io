@@ -44,7 +44,7 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 ## PROJECTS
 ---
 ### DeepFake Detection
-Developed an end-to-end comprehensive DeepFake detector for face images with deployment on GKE for scalability and effeciency. 
+Developed an end-to-end comprehensive DeepFake detector for face images with deployment on GKE for scalability and effeciency. <br><br>
 [![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
