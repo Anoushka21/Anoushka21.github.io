@@ -45,9 +45,9 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 ---
 ### DeepFake Detection
 Developed an end-to-end comprehensive DeepFake detector for face images with deployment on GKE for scalability and effeciency. 
-[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]
-[![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)]
+[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
