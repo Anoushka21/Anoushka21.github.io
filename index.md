@@ -43,6 +43,18 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 ---
 ## PROJECTS
 ---
+### DeepFake Detection
+Developed an end-to-end comprehensive DeepFake detector for face images with deployment on GKE for scalability and effeciency. 
+[![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)](#)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<a href="https://github.com/Anoushka21/DeepFake-Detection" target="_blank">View GitHub Repository</a>
+
+---
 ### Future Video Frame Prediction
 Predicting the segmentation mask of the 22nd video frame given the first 11 video frames using an encoder decoder based ConvLSTM and Unet Model. 
 
@@ -52,8 +64,7 @@ Predicting the segmentation mask of the 22nd video frame given the first 11 vide
 [![](https://img.shields.io/badge/ConvLSTM-white?logo=ConvLSTM)](#)
 [![](https://img.shields.io/badge/GAN-grey?logo=GAN)](#)
 
-<a href="https://github.com/anishabhatnagar/DLProject" target="_blank">View GitHub Repository</a>
-
+<a href="https://github.com/Anoushka21/Future-Frame-Prediction-and-Segmentation" target="_blank">View GitHub Repository</a>
 
 ---
 ### Deep Learning to Identify Sentence Structure
