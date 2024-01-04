@@ -69,9 +69,13 @@ Predicting the segmentation mask of the 22nd video frame given the first 11 vide
 ---
 ### CUDA V/s OpenMP
 A comprehensive comparative analysis of CUDA and OpenMP on the basis of their programmability, scalability, performance and overheads <br><br>
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](#)
-[![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
-[![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)](#)
+[![](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)](#)
+[![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?&logo=nVIDIA&logoColor=white)](#)
+[![](https://img.shields.io/badge/OpenMP-grey?logo=OpenMP)](#)
+[![](https://img.shields.io/badge/nvprof-white?logo=nvprof)](#)
+
+
 
 <a href="https://github.com/Anoushka21/CUDA-vs-OpenMP" target="_blank">View GitHub Repository</a>
 
