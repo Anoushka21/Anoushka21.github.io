@@ -46,12 +46,12 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 ### IgniTech: Fighting Fire with Data
 Big Data Analysis of NYC Fire Incident data to analyze casual relationship between fires, govt. inspections, socio-ecnomic factors and enviroment. Used Hadoop MapReduce for data pre-processing, Trino for complex queries and Tableau for visualizations and interactive dashboards
 <br><br>
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)]
-[![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)]
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]
-[![](https://img.shields.io/badge/Presto-5890FF.svg?style=for-the-badge&logo=Presto&logoColor=white)]
+[![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)]
+[![](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black)]
+[![](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)]
+[![](https://img.shields.io/badge/Presto-5890FF.svg?logo=Presto&logoColor=white)]
 <a href="https://github.com/Anoushka21/IgniTech" target="_blank">View GitHub Repository</a>
 
 ---
