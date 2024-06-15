@@ -1,7 +1,5 @@
 ## HELLO!
 ---
-Currently in my final semester at NYU Courant, I have pursued advanced courses in Computer Vision, Deep Learning, NLP, Graphical Processing Units, Cloud Computing etc over the last two years. I am also serving as a Graduate Grader and Tutor for the graduate course Artificial Intelligence & undergraduate course Data Strcutures.
-
 _**I am actively seeking 2024 New Grad roles**_ that align with my passion and expertise. If you believe that my skills and experience align with your organization,feel free to reach out to me.
 
 Some of my previous work experience & projects are listed below!
