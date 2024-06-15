@@ -52,6 +52,7 @@ Big Data Analysis of NYC Fire Incident data to analyze casual relationship betwe
 [![](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)](#)
 [![](https://img.shields.io/badge/Presto-5890FF.svg?logo=Presto&logoColor=white)](#)
+
 <a href="https://github.com/Anoushka21/IgniTech" target="_blank">View GitHub Repository</a>
 
 ---
