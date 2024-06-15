@@ -48,10 +48,10 @@ Big Data Analysis of NYC Fire Incident data to analyze casual relationship betwe
 <br><br>
 [![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](#)
-[![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)]
-[![](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black)]
-[![](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)]
-[![](https://img.shields.io/badge/Presto-5890FF.svg?logo=Presto&logoColor=white)]
+[![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)](#)
+[![](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black)](#)
+[![](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)](#)
+[![](https://img.shields.io/badge/Presto-5890FF.svg?logo=Presto&logoColor=white)](#)
 <a href="https://github.com/Anoushka21/IgniTech" target="_blank">View GitHub Repository</a>
 
 ---
