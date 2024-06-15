@@ -6,6 +6,8 @@ _**I am actively seeking 2024 New Grad roles**_ that align with my passion and e
 
 Some of my previous work experience & projects are listed below!
 
+<details>
+  <summary><strong>Click to expand: Work Experience</strong></summary>
 ---
 ## WORK EXPERIENCE
 ---
@@ -40,6 +42,7 @@ Led a team of three students to create and implement a Multi-object Tracking sys
 [![](https://img.shields.io/badge/YOLO-white?)](#)
 [![](https://img.shields.io/badge/DeepSORT-grey?)](#)
 
+</details>
 ---
 ## PROJECTS
 ---
